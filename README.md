@@ -29,4 +29,4 @@ b) A file called 'adjustments' where I make manual (and systematic) adjustments 
 
 c) A file named 'proj_numbers' where you enter the current provincial and federal polling numbers (or the numbers you want to use, just make sure they are between 0 and 100 and sum to 100)
 
-That's all for now. If you see any mistake, please let me know. If you use this code to publih anything (blog, tweet, etc), please give me (or my blog) credit. If you think this code is garbbage, make sure to mention it on r/CanadaPolitics and collect free Karma.
+That's all for now. If you see any mistake, please let me know. If you use this code to publih anything (blog, tweet, etc), please give me (or my blog) credit. If you think this code is garbbage, make sure to mention it on Reddit.
